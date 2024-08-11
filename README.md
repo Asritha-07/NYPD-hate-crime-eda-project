@@ -18,6 +18,7 @@ In this step, we make our data ready foir analysis - extracting only required fe
 Here, we perform all sorts of temporal, categoriccal and geospatial analysis on the given data.
 
 ### `Step 5:` Visualization
+
 Here, we use `Matplotlib` and `Seaborn` to visualize our data.
 
 ### `Step 6:` Conclusion
